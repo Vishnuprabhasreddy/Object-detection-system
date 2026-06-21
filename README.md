@@ -62,7 +62,7 @@ Object-Detection-System/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Object-Detection-System.git
+git clone https://github.com/Vishnuprabhasreddy/Object-Detection-System.git
 ```
 
 ### Navigate to the project folder
